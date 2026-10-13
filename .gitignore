@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Builds / packages
+dist/
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Env / secrets
+.env
+.env.*
+!.env.example
